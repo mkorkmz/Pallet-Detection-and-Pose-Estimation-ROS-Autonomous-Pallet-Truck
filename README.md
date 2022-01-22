@@ -25,14 +25,14 @@ https://github.com/ros-planning/navigation.git
 
   ## Video
 Click image to link to YouTube video.  
-[![plier_check](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/pallet_detection_and_pose_estimation.png?raw=true)](https://youtu.be/WveuiUaSEYE)   
+[![video](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/pallet_detection_and_pose_estimation.png?raw=true)](https://youtu.be/WveuiUaSEYE)   
 
 
 Click image to link to YouTube video.  
-[![plier_check](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/autonomous_pallet_truck.png?raw=true)](https://youtu.be/lp2QZvnOLrA)   
+[![video](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/autonomous_pallet_truck.png?raw=true)](https://youtu.be/lp2QZvnOLrA)   
 
   ## Image
-![İsim](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/pallet_detection.jpeg?raw=true)
+![image](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/pallet_detection.jpeg?raw=true)
 
-![İsim](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/pallet_detection_gui.jpeg?raw=true)
+![image](https://github.com/mkorkmz/Pallet-Detection-and-Pose-Estimation-ROS/blob/main/pallet_detection_gui.jpeg?raw=true)
 
